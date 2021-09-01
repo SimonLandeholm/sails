@@ -11,4 +11,6 @@ Note:
 >
 > In a production environment, you'll probably want to leave this file out entirely and configure all of your production overrides using `env/production.js`, or environment variables, or a combination of both.
 
+***The local.js file is not used when NODE_ENV is set to production***
+
 <docmeta name="displayName" value="The local.js file">
